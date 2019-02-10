@@ -3,6 +3,7 @@ layout: post
 title: we're up and running!
 ---
 
+post 2
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
